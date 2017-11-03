@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 query.py -query "$1" -api_key $2 -cse_id $3 -precision $4
