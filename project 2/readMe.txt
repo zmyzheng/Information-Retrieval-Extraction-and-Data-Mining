@@ -1,4 +1,4 @@
-Project 1 Group 7
+Project 2 Group 7
 
 Mingyang Zheng (mz2594)   Huafeng Shi (hs2917)
 
